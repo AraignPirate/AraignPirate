@@ -1,4 +1,4 @@
-<a href="araignpirate.herokuapp.com"><img src="https://github.com/AraignPirate/AraignPirate/blob/main/icons/AraignPirateGithubHeader.png" width="100%" alt="Araign Pirate Header"></a>
+<a href="https://araignpirate.herokuapp.com"><img src="https://github.com/AraignPirate/AraignPirate/blob/main/icons/AraignPirateGithubHeader.png" width="100%" alt="Araign Pirate Header"></a>
 
 - 👋 Hi, I’m @AraignPirate
 - 👀 I’m interested in ...
