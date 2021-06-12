@@ -1,4 +1,4 @@
-[![Araign Pirate Header](https://github.com/AraignPirate/AraignPirate/blob/main/icons/AraignPirateGithubHeader.png)](https://araignpirate.herokuapp.com)
+<img src="https://github.com/AraignPirate/AraignPirate/blob/main/icons/AraignPirateGithubHeader.png" width="100%" alt="Araign Pirate Header">
 
 - 👋 Hi, I’m @AraignPirate
 - 👀 I’m interested in ...
