@@ -1,4 +1,5 @@
-[(https://github.com/AraignPirate/AraignPirate/blob/main/icons/AraignPirateGithubHeader.png)](https://araignpirate.herokuapp.com)
+# [![Araign Pirate Header](https://github.com/AraignPirate/AraignPirate/blob/main/icons/AraignPirateGithubHeader.png | width=100)](https://araignpirate.herokuapp.com)
+
 - 👋 Hi, I’m @AraignPirate
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
